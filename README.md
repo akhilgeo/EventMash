@@ -5,6 +5,7 @@ Event Management Web Portal using JPA and JSF
 A system to automate the registration process for various events in a customizable manner. It would have an online registration component that can be used for user registration from a remote location over the internet as well as an onsite component that can be used for user registration at the venue of the event.
 
 Existing System
+---------------
 
 In Existing System , for managing events such as tech fest at colleges that has multiple competitions the user and event registration is a tedious task as it involves storing user details, event registrations , cash management and parallel event management.
 
@@ -18,6 +19,7 @@ Keeping track of the number of registrations received for an event so that the m
 
 
 Proposed system
+---------------
 
 The purpose of the project is to automate the entire process of event organization and registration so that it would be beneficial to both the organizers of the event as well as the participants.
 
